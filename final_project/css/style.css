@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Cutive+Mono&display=swap');
+
+body {
+  background-color: black;
+  color: white;
+  font-family: "Cutive Mono", monospace;
+}
+
+
+/*Title*/
+h1 {
+  text-align: left;
+  letter-spacing: 2px;
+  color: white;
+  font-size: 60px;
+  width: 600px;
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: black;
+  font-size: 20px;
+  width: 600px;
+  background-color: white;
+  margin: 20 auto;
+}
+
+
+h3 {
+  text-align: left;
+  letter-spacing: 2px;
+  color: white;
+  font-size: 20px;
+  width: 600px;
+  margin: 0 auto;
+}
